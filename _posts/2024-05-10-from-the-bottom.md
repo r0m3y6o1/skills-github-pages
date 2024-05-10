@@ -13,3 +13,8 @@ The current task that I am attempting to complete is as follows;
 6.  Install FTK Imager & Eric Zimmerman Tools to create image of disk & find evidence of exfiltration methods.
 7.  lookup SRUM event logs to show each programs data useage per minute and identify internet exfiltration attempts
 8.  Look into Db browser for SQLite for internet artifacts
+
+
+ATTEMPT 1 - 1:50AM
+1. Downloaded VirtualBox and Windows ISO, executed on Linux VM.
+   
