@@ -1,12 +1,4 @@
 ---
-title: Welcome to my blog yay!!
+title: Rome's Dome
 ---
-This is content
-
-This is more content
-
-Test
-
-test
-
-test
+This blog serves the purpose of documenting my journey as I explore and learn about digital forensics.
